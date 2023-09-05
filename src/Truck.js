@@ -1,5 +1,5 @@
 import './truck.css';
-import image from './Scptwoimg';
+
 
 function Truck({Scptwo})
 {
